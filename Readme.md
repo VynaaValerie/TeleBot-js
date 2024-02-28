@@ -43,5 +43,5 @@ Edit the required value in `config.json`. You can get the apikey at [`LoL Human 
 * [`Telegraf`](https://github.com/telegraf/telegraf)
 * [`Pais`](https://github.com/Paiiss)
 * `Ben`
-* * [`Pais`](https://github.com/VynaaValerie/TeleBot-js)
+(https://github.com/VynaaValerie/TeleBot-js)
 * `Vynaa`
