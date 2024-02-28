@@ -6,6 +6,10 @@
 </div>
 
 <div align="center">
+    <img src="https://telegra.ph/file/c9bd4c2fa9409d73574d3.jpg">
+</div>
+
+<div align="center">
     <img src="https://telegra.ph/file/19ee9544f20cc9abc2a7c.png">
 </div>
 
