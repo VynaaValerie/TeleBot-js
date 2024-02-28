@@ -1,6 +1,13 @@
 # Telegram Bot
 # JavaScript 
 
+<div align="center">
+    <h2>Preview</h2>
+</div>
+
+<div align="center">
+    <img src="https://telegra.ph/file/19ee9544f20cc9abc2a7c.png">
+</div>
 
 
 ## Install the package
