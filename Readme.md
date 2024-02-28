@@ -1,17 +1,15 @@
 # Telegram Bot
 # JavaScript 
 
-# Installation
-
-* [npm install]
-* [npm start]
 
 
 ## Install the package
 ```cmd
-> npm i
+> npm install
+> npm start
 ```
-
+Download module
+https://sfl.gl/qZAWnuE
 ## Edit config file
 Edit the required value in `config.json`. You can get the apikey at [`LoL Human Rest API`](http://api.lolhuman.xyz/). And get bot token at [`@BotFather`](http://t.me/BotFather).json
 
